@@ -4,7 +4,7 @@
   <a href="https://b3rrygutz.straw.page/"> ★ Strawpage <br/>
 <b>★</b> I am usually AFK on PonyTown, Whisper to Interact! <br/>
 
-https://github.com/kittinan/spotify-github-profile.git
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=98mwp7hu4hfbxqk54y8fwlm4a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=98mwp7hu4hfbxqk54y8fwlm4a&redirect=true)
 
 <h2 align="center">${\textsf{\color{Pink}About Me}}$</h2>
 <b>★</b> I'm Dewberry/Dew but i'm known as "B3RRYGUTZ" or "D3WB3RRY"<br/>
