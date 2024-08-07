@@ -17,7 +17,16 @@
 <b>★</b> Rick and Morty, Smiling Friends, LAW OF TALOS / LOT, Moral Orel, Moral Orel, Bojack horseman, IHNMAIMS, Hannibal (TV series), Alfred's Playhouse, Metal Family <br/>
 
 <h2 align="center">${\textsf{\color{Pink}Intrests!!}}$</h2>
-<b>★</b> True Crime, Psychology, Video Essays, Iceburgs,Internet Drama - Specifcs: Chris Chan, Cults, Mental Illnesess, Ww2 : Nazi Germany, Hyperinflation in Germany (i do not support Nazis HELP....) - I'm hoping to take Criminology & Psychology Courses When im out of Secondary School :)) <br/>
+True Crime <br/>
+Psychology <br/>
+Video Essays <br/>
+Iceburgs <br/>
+Internet Drama - Specifcs: Chris Chan <br/>
+Cults <br/>
+cannibalism <br/>
+Mental Illnesess <br/>
+History <br/>
+Ww2 : Nazi Germany, Hyperinflation in Germany (i do not support Nazis HELP....)  <br/>
 
 <h2 align="center">${\textsf{\color{Pink}Music Taste}}$</h2>
  ★ Mindless self idulgence <br/>
