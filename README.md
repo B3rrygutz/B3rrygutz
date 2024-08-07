@@ -13,7 +13,7 @@
 <b>★</b> ENTP 4w5<br/>
 <b>★</b> I'm a Self-Taught Artist/Animator who draws furries<br/><br/>
 
-<h2 align="center">${\textsf{\color{Pink}Intrests / Fandoms / Stuff i like!!}}$</h2>
+<h2 align="center">${\textsf{\color{Pink}Interests / Fandoms / Stuff i like!!}}$</h2>
 <b>★</b> Rick and Morty, Smiling Friends, LAW OF TALOS / LOT, Moral Orel, Moral Orel, Bojack horseman, IHNMAIMS, Hannibal (TV series), Alfred's Playhouse, Metal Family <br/>
 
 <h2 align="center">${\textsf{\color{Pink}Intrests!!}}$</h2>
