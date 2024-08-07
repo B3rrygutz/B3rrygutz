@@ -14,7 +14,16 @@
 <b>★</b> I'm a Self-Taught Artist/Animator who draws furries<br/><br/>
 
 <h2 align="center">${\textsf{\color{Pink}Interests / Fandoms / Stuff i like!!}}$</h2>
-<b>★</b> Rick and Morty, Smiling Friends, LAW OF TALOS / LOT, Moral Orel, Moral Orel, Bojack horseman, IHNMAIMS, Hannibal (TV series), Alfred's Playhouse, Metal Family <br/>
+Rick and Morty <br/>
+Smiling Friends <br/>
+LAW OF TALOS / LOT <br/>
+Moral Orel <br/>
+Bojack horseman <br/>
+IHNMAIMS <br/>
+Hannibal (TV series) <br/>
+Alfred's Playhouse <br/>
+Metal Family <br/>
+Gravity Falls <br/>
 
 <h2 align="center">${\textsf{\color{Pink}Intrests!!}}$</h2>
 True Crime <br/>
@@ -68,5 +77,5 @@ Ww2 : Nazi Germany, Hyperinflation in Germany (i do not support Nazis HELP....) 
 
 
 
+  <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery46/d67e5561.gif?v=52814815" ><br/><br/>
-
