@@ -21,42 +21,39 @@
 
 <h2 align="center">${\textsf{\color{Pink}Music Taste}}$</h2>
 <b> ★ Mindless self idulgence <br/>
-<b> ♡ Of Montreal <br/>
-<b> ♡ The Left Rights <br/>
-<b> ★ The Paper Chase <br/>
-<b> ★ Oingo Boingo <br/>
-<b> ★ KMFDM <br/>
-<b> ♡ john congleton and the nighty nite <br/>
-<b> ♡ The Nighty Night <br/>
-<b> ★ retard-o-bot <br/>
-<b> ★ Uncle Outrage <br/>
-<b> ★ 4lung <br/>
-<b> ♡ Rob Zombie <br/>
-<b> ♡ Korn <br/>
-<b> ♡ Slipknot <br/>
-<b> ♡ System of a Down <br/>
-<b> ♡ Acid Bath <br/>
-<b> ♡ Static-X <br/>
-<b> ♡ Goreshit <br/>
-<b> ★ Halley Labs / Lapfox Trax <br/>
-<b> ★ They Might Be Giants <br/>
-<b> ★ And One <br/>
-<b> ♡ Mook <br/>
-<b> ♡ MAILPUP <br/>
-<b> ♡ Nero's Day At Disneyland <br/>
-<b> Creep-P <br/>
-<b> ♡ STOMACH BOOK <br/>
-<b> ♡ The Garden <br/>
-<b> Will Wood <br/>
-<b> ♡ Rinse Repeat <br/>
-<b> ★ Self <br/>
-<b> Toxic Lipstick <br/>
-<b> ♡ The Handsome Devil <br/>
-<b> ★ EURINGER <br/>
-<b> ♡ Gezebelle Gaburgably <br/>
-<b> ♡ BRN1NG BRA1N SOUND INDUSTRIES <br/>
-<b> ♡ Jack Stauber <br/>
-<b> + so so so much more <br/>
+ ♡ Of Montreal <br/>
+ ♡ The Left Rights <br/>
+ ★ The Paper Chase <br/>
+ ★ Oingo Boingo <br/>
+ ★ KMFDM <br/>
+ ♡ john congleton and the nighty nite <br/>
+ ♡ The Nighty Night <br/>
+ ★ retard-o-bot <br/>
+ ★ Uncle Outrage <br/>
+ ★ 4lung <br/>
+ ♡ Rob Zombie <br/>
+ ♡ Korn <br/>
+ ♡ Slipknot <br/>
+ ♡ System of a Down <br/>
+ ♡ Acid Bath <br/>
+ ♡ Static-X <br/>
+ ♡ Goreshit <br/>
+ ★ Halley Labs / Lapfox Trax <br/>
+ ★ They Might Be Giants <br/>
+ ★ And One <br/>
+ ♡ Mook <br/>
+ ♡ MAILPUP <br/>
+ ♡ Nero's Day At Disneyland <br/>
+ ♡ STOMACH BOOK <br/>
+ ♡ The Garden <br/>
+ ♡ Rinse Repeat <br/>
+ ★ Self <br/>
+ ♡ The Handsome Devil <br/>
+ ★ EURINGER <br/>
+ ♡ Gezebelle Gaburgably <br/>
+ ♡ BRN1NG BRA1N SOUND INDUSTRIES <br/>
+ ♡ Jack Stauber <br/>
+ + so so so much more <br/>
 
 
 
