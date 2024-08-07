@@ -20,7 +20,7 @@
 <b>★</b> True Crime, Psychology, Video Essays, Iceburgs,Internet Drama - Specifcs: Chris Chan, Cults, Mental Illnesess, Ww2 : Nazi Germany, Hyperinflation in Germany (i do not support Nazis HELP....) - I'm hoping to take Criminology & Psychology Courses When im out of Secondary School :)) <br/>
 
 <h2 align="center">${\textsf{\color{Pink}Music Taste}}$</h2>
-<b> ★ Mindless self idulgence <br/>
+ ★ Mindless self idulgence <br/>
  ♡ Of Montreal <br/>
  ♡ The Left Rights <br/>
  ★ The Paper Chase <br/>
