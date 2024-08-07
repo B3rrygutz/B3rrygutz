@@ -20,43 +20,43 @@
 <b>★</b> True Crime, Psychology, Video Essays, Iceburgs,Internet Drama - Specifcs: Chris Chan, Cults, Mental Illnesess, Ww2 : Nazi Germany, Hyperinflation in Germany (i do not support Nazis HELP....) - I'm hoping to take Criminology & Psychology Courses When im out of Secondary School :)) <br/>
 
 <h2 align="center">${\textsf{\color{Pink}Music Taste}}$</h2>
-<b>★</b>★ Mindless self idulgence
-♡ Of Montreal
-♡ The Left Rights
-★ The Paper Chase
-★ Oingo Boingo
-★ KMFDM
-♡ john congleton and the nighty nite
-♡ The Nighty Night
-★ retard-o-bot
-★ Uncle Outrage
-★ 4lung
-♡ Rob Zombie
-♡ Korn
-♡ Slipknot
-♡ System of a Down
-♡ Acid Bath
-♡ Static-X
-♡ Goreshit
-★ Halley Labs / Lapfox Trax
-★ They Might Be Giants
-★ And One
-♡ Mook
-♡ MAILPUP
-♡ Nero's Day At Disneyland
-Creep-P
-♡ STOMACH BOOK
-♡ The Garden
-Will Wood
-♡ Rinse Repeat
-★ Self
-Toxic Lipstick
-♡ The Handsome Devil
-★ EURINGER
-♡ Gezebelle Gaburgably
-♡ BRN1NG BRA1N SOUND INDUSTRIES
-♡ Jack Stauber
-+ so so so much more <br/>
+<b> ★ Mindless self idulgence <br/>
+<b> ♡ Of Montreal <br/>
+<b> ♡ The Left Rights <br/>
+<b> ★ The Paper Chase <br/>
+<b> ★ Oingo Boingo <br/>
+<b> ★ KMFDM <br/>
+<b> ♡ john congleton and the nighty nite <br/>
+<b> ♡ The Nighty Night <br/>
+<b> ★ retard-o-bot <br/>
+<b> ★ Uncle Outrage <br/>
+<b> ★ 4lung <br/>
+<b> ♡ Rob Zombie <br/>
+<b> ♡ Korn <br/>
+<b> ♡ Slipknot <br/>
+<b> ♡ System of a Down <br/>
+<b> ♡ Acid Bath <br/>
+<b> ♡ Static-X <br/>
+<b> ♡ Goreshit <br/>
+<b> ★ Halley Labs / Lapfox Trax <br/>
+<b> ★ They Might Be Giants <br/>
+<b> ★ And One <br/>
+<b> ♡ Mook <br/>
+<b> ♡ MAILPUP <br/>
+<b> ♡ Nero's Day At Disneyland <br/>
+<b> Creep-P <br/>
+<b> ♡ STOMACH BOOK <br/>
+<b> ♡ The Garden <br/>
+<b> Will Wood <br/>
+<b> ♡ Rinse Repeat <br/>
+<b> ★ Self <br/>
+<b> Toxic Lipstick <br/>
+<b> ♡ The Handsome Devil <br/>
+<b> ★ EURINGER <br/>
+<b> ♡ Gezebelle Gaburgably <br/>
+<b> ♡ BRN1NG BRA1N SOUND INDUSTRIES <br/>
+<b> ♡ Jack Stauber <br/>
+<b> + so so so much more <br/>
 
 
 
