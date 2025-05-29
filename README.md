@@ -9,8 +9,8 @@
 
 <h2 align="center">${\textsf{\color{Pink}About Me}}$</h2>
 <b>★</b> I'm Dewberry/Dew but i'm known as "B3RRYGUTZ" or "D3WB3RRY"<br/>
-<b>★</b> 15 [15/12/2008]<br/>
-<b>★</b> ENTP 4w5<br/>
+<b>★</b> 16 [15/12/2008]<br/>
+<b>★</b> ENTP <br/>
 <b>★</b> I'm a Self-Taught Artist/Animator who draws furries<br/><br/>
 
   <p align="center">
