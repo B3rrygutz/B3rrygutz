@@ -1,4 +1,4 @@
-/><h2 align="center">HIII if ur seeing this YOUR PROBABLY FROM PONY.TOWN!</h2>
+<h2 align="center">HIII if ur seeing this YOUR PROBABLY FROM PONY.TOWN!</h2>
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery38/02c2e35b.gif?v=52814815" ><br/><br/>
 
