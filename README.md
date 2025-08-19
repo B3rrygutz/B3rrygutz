@@ -1,4 +1,4 @@
-<h2 align="center">HIII if ur seeing this YOUR PROBABLY FROM PONY.TOWN!</h2>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9cd1242-c908-4b5d-9e08-f340c33cb1ea" /><h2 align="center">HIII if ur seeing this YOUR PROBABLY FROM PONY.TOWN!</h2>
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery38/02c2e35b.gif?v=52814815" ><br/><br/>
 
@@ -15,6 +15,8 @@
 <body>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=98mwp7hu4hfbxqk54y8fwlm4a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img width="500" height="150" src="[https://64.media.tumblr.com/0d2ba2c2898caf6399280457dbf7c251/tumblr_inline_pgas0a4G5U1v11djx_500.png"> <img width="100" height="150" src="https://adriansblinkiecollection.neocities.org/stamps/d15.jpg](https://f2.toyhou.se/file/f2-toyhou-se/images/105925547_cMrq7BZXjvLmBXr.png)">
 
   <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery38/02c2e35b.gif?v=52814815" ><br/><br/>
