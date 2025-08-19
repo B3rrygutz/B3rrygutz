@@ -16,7 +16,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=98mwp7hu4hfbxqk54y8fwlm4a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-> <img width="500" height="100" src="https://f2.toyhou.se/file/f2-toyhou-se/images/105925547_cMrq7BZXjvLmBXr.png">
-
   <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery38/02c2e35b.gif?v=52814815" ><br/><br/>
